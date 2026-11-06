@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "prod": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@inertiajs/react": "^2.3.8",
+    "@tailwindcss/vite": "^4.1.18",
+    "daisyui": "^5.5.14",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "tailwindcss": "^4.1.18"
+  }
+}
